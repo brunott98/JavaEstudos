@@ -2,7 +2,7 @@ package Estudos;
 
 import java.util.Scanner;
 
-public class consoleImport {
+public class ConsoleImport {
     public static void main(String[] args) {
 
         System.out.printf("Salário: %.1f%n",12000.20);
