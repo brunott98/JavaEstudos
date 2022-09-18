@@ -1,6 +1,6 @@
 package Estudos;
 
-public class entendendoString {
+public class EntendendoString {
 
 
     public static void main(String[] args) {
