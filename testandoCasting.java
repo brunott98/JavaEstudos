@@ -1,6 +1,6 @@
 package Estudos;
 
-public class testandoCasting {
+public class TestandoCasting {
 
     public static void main(String[] args){
         double a = 1;
