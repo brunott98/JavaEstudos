@@ -2,7 +2,7 @@ package Estudos;
 
 import java.util.Scanner;
 
-public class testeBasico {
+public class TesteBasico {
 
     public static void main(String[] args) {
         int a = 123;
