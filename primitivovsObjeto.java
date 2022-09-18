@@ -1,6 +1,6 @@
 package Estudos;
 
-public class primitivovsObjeto {
+public class PrimitivovsObjeto {
 
     //Wrappers são tipos primitivos que se tornaram objetos
 
